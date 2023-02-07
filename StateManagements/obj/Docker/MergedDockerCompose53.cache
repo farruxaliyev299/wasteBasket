@@ -1,0 +1,50 @@
+name: dockercompose13880004224118929996
+services:
+  code.db:
+    container_name: code.db
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Pro247!!
+    image: mcr.microsoft.com/mssql/server:2019-latest
+    networks:
+      network1: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "1433"
+      protocol: tcp
+    restart: always
+    volumes:
+    - type: volume
+      source: code_database_volume
+      target: /var/opt/mssql
+      volume: {}
+  statemanagements.session_:
+    build:
+      context: C:\Users\Asus\Desktop\Lessons\MVC\StateManagements
+      dockerfile: StateManagements.Session_/Dockerfile
+    container_name: code.sessionapp
+    depends_on:
+      code.db:
+        condition: service_started
+    environment:
+      ASPNETCORE_ENVIRONMENT: ""
+    image: statemanagementssession
+    networks:
+      network1: null
+    ports:
+    - mode: ingress
+      target: 80
+      published: "1909"
+      protocol: tcp
+networks:
+  network1:
+    name: dockercompose13880004224118929996_network1
+    driver: bridge
+    ipam:
+      config:
+      - subnet: 172.21.0.0/24
+        gateway: 172.21.0.1
+volumes:
+  code_database_volume:
+    name: dockercompose13880004224118929996_code_database_volume

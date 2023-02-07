@@ -1,0 +1,28 @@
+name: dockercompose16829155624741188597
+services:
+  code.db:
+    container_name: code.db
+    image: mrc.microsoft.com/mssql/server:2019-lates
+    networks:
+      network1: null
+  statemanagements.session_:
+    build:
+      context: C:\Users\murat\OneDrive\Desktop\RNET101\MVC\StateManagements
+      dockerfile: StateManagements.Session_/Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: statemanagementssession
+    networks:
+      network1: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+networks:
+  network1:
+    name: dockercompose16829155624741188597_network1
+    driver: bridge
+    ipam:
+      config:
+      - subnet: 172.21.0.0/24
+        gateway: 172.21.0.1

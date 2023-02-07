@@ -1,0 +1,105 @@
+name: dockercompose16829155624741188597
+services:
+  code.db:
+    container_name: code.db
+    environment:
+      ACCEPT_EULA: "Y"
+      SA_PASSWORD: Pro247!!
+    image: mrc.microsoft.com/mssql/server:2019-lates
+    networks:
+      network1: null
+    ports:
+    - mode: ingress
+      target: 1433
+      published: "1433"
+      protocol: tcp
+    restart: always
+    volumes:
+    - type: volume
+      source: code_database_volume
+      target: /var/opt/mssql
+      volume: {}
+  statemanagements.session_:
+    build:
+      context: C:\Users\murat\OneDrive\Desktop\RNET101\MVC\StateManagements
+      dockerfile: StateManagements.Session_/Dockerfile
+      labels:
+        com.microsoft.created-by: visual-studio
+        com.microsoft.visual-studio.project-name: StateManagements.Session_
+      target: base
+    container_name: StateManagements.Session_
+    entrypoint:
+    - tail
+    - -f
+    - /dev/null
+    environment:
+      ASPNETCORE_ENVIRONMENT: ""
+      ASPNETCORE_LOGGING__CONSOLE__DISABLECOLORS: "true"
+      DOTNET_USE_POLLING_FILE_WATCHER: "1"
+      NUGET_FALLBACK_PACKAGES: /root/.nuget/fallbackpackages
+    image: statemanagementssession:dev
+    labels:
+      com.microsoft.visualstudio.debuggee.arguments: ' --additionalProbingPath /root/.nuget/packages
+        --additionalProbingPath /root/.nuget/fallbackpackages  "/app/bin/Debug/net7.0/StateManagements.Session_.dll"'
+      com.microsoft.visualstudio.debuggee.killprogram: /bin/sh -c "if PID=$$(pidof
+        dotnet); then kill $$PID; fi"
+      com.microsoft.visualstudio.debuggee.program: dotnet
+      com.microsoft.visualstudio.debuggee.workingdirectory: /app
+    networks:
+      network1: null
+    ports:
+    - mode: ingress
+      target: 80
+      protocol: tcp
+    tty: true
+    volumes:
+    - type: bind
+      source: C:\Users\murat\OneDrive\Desktop\RNET101\MVC\StateManagements\StateManagements.Session_
+      target: /app
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\murat\OneDrive\Desktop\RNET101\MVC\StateManagements
+      target: /src
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\murat\vsdbg\vs2017u5
+      target: /remote_debugger
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\murat\.nuget\packages\
+      target: /root/.nuget/packages
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Program Files\dotnet\sdk\NuGetFallbackFolder
+      target: /root/.nuget/fallbackpackages
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\murat\AppData\Roaming/ASP.NET/Https
+      target: /root/.aspnet/https
+      read_only: true
+      bind:
+        create_host_path: true
+    - type: bind
+      source: C:\Users\murat\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+networks:
+  network1:
+    name: dockercompose16829155624741188597_network1
+    driver: bridge
+    ipam:
+      config:
+      - subnet: 172.21.0.0/24
+        gateway: 172.21.0.1
+volumes:
+  code_database_volume:
+    name: dockercompose16829155624741188597_code_database_volume

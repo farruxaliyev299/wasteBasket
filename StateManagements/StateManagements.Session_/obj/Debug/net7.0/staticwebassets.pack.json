@@ -1,0 +1,669 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\StateManagements.Session_.bundle.scp.css",
+      "PackagePath": "staticwebassets\\StateManagements.Session_.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\comman.css",
+      "PackagePath": "staticwebassets\\assets\\css\\comman.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\font.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\assets\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\nice-select.css",
+      "PackagePath": "staticwebassets\\assets\\css\\nice-select.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\css\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\err_toster.png",
+      "PackagePath": "staticwebassets\\assets\\images\\err_toster.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\baner01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\baner01.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\baner02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\baner02.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\big_logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\big_logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\blog01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\blog02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\blog03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog_next.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\blog_next.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blog_pre.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\blog_pre.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\blogads.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\blogads.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\bs_list1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\bs_list1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\bs_list2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\bs_list2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\bs_list3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\bs_list3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\cmnt01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\cmnt01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\cmnt02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\cmnt02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\cmnt03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\cmnt03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_mid_banner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\e_mid_banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_mid_banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\e_mid_banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_offer_banner1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\e_offer_banner1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_offer_banner2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\e_offer_banner2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\e_offer_banner3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\e_offer_banner3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\instaglry01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\instaglry02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\instaglry03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\instaglry04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\instaglry05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\instaglry06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\instaglry07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\instaglry08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\instaglry09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\instaglry09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\mastercard.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\mastercard.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\mini_blog1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\mini_blog1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\mini_blog2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\mini_blog2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\new_arrivals\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\new_arrivals\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\new_arrivals\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\04.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\new_arrivals\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\05.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\new_arrivals\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\06.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\new_arrivals\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\07.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\new_arrivals\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\08.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\new_arrivals\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\09.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\new_arrivals\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\10.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\new_arrivals\\10.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\11.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\new_arrivals\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\new_arrivals\\12.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\new_arrivals\\12.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\news_move1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\news_move1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\news_move2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\news_move2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\news_move3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\news_move3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\news_move4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\news_move4.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\newsletter_bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\newsletter_bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\payment1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\payment1.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\payment2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\payment2.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\payment3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\payment3.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\payment4.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\payment4.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\paypal.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\paypal.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\pro-single01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\pro-single01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\pro-singlethumb01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\pro-singlethumb01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\pro-singlethumb02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\pro-singlethumb02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\pro-singlethumb03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\pro-singlethumb03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\shopcart01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\shopcart02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\shopcart03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\shopcart04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\shopcart05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\shopcart05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\blank_star.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\blank_star.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\blog_caret.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\blog_caret.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\blog_play.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\blog_play.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\calender_c.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\calender_c.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\ccv.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\ccv.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\close_search.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\close_search.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\cut.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\cut.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\delete.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\delete.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\discount_Per.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\discount_Per.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\edit.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\edit.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\plus.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\plus.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\profile.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\quote.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\quote.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\reply.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\reply.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\svg\\star.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\svg\\star.svg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\ts_shap.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\ts_shap.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\index1\\visa.png",
+      "PackagePath": "staticwebassets\\assets\\images\\index1\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\suc_toster.png",
+      "PackagePath": "staticwebassets\\assets\\images\\suc_toster.png"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\images\\user_profile.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\user_profile.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\SmoothScroll.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\SmoothScroll.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\jquery.nice-select.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.nice-select.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\rang_slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\rang_slider.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\assets\\js\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Asus\\Desktop\\Lessons\\MVC\\StateManagements\\StateManagements.Session_\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.StateManagements.Session_.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.StateManagements.Session_.props",
+      "PackagePath": "build\\StateManagements.Session_.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.StateManagements.Session_.props",
+      "PackagePath": "buildMultiTargeting\\StateManagements.Session_.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.StateManagements.Session_.props",
+      "PackagePath": "buildTransitive\\StateManagements.Session_.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

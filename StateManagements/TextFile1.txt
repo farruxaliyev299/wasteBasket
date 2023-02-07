@@ -1,0 +1,19 @@
+# stop all containers
+docker stop code.sessionapp
+docker stop code.db
+ 
+# delete all containers
+docker rm statemanagementssession:dev
+docker rm code.db
+
+# delete all images
+docker images -a -q | % { docker image rm $_ -f }
+
+
+# delete all networks
+docker network prune -af
+
+# delete all volumes
+docker volume rm $(docker volume ls -q)
+
+docker builder prune -af
