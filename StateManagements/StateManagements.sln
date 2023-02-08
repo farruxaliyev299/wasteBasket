@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33213.308
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagements.Session_", "StateManagements.Session_\StateManagements.Session_.csproj", "{DA3C89F4-091D-45FB-98AF-33F8D266619A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StateManagements.Session_", "StateManagements.Session_\StateManagements.Session_.csproj", "{DA3C89F4-091D-45FB-98AF-33F8D266619A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagements.Models", "StateManagements.Models\StateManagements.Models.csproj", "{26766A9C-2132-46DD-AF14-90DB1891D461}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StateManagements.Models", "StateManagements.Models\StateManagements.Models.csproj", "{26766A9C-2132-46DD-AF14-90DB1891D461}"
 EndProject
 Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{32EDEA61-C22F-418E-AFC7-22EF98DFC686}"
 EndProject
@@ -17,8 +17,13 @@ EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CE03251A-B77A-4886-ABAB-BE1CB36A03C8}"
 	ProjectSection(SolutionItems) = preProject
 		install-master.ps1 = install-master.ps1
+		add-migration.ps1 = add-migration.ps1
 		TextFile1.txt = TextFile1.txt
 	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagements.Cookie_", "..\StateManagements.Cookie_\StateManagements.Cookie_.csproj", "{F9AC1A20-063E-4BC8-AE5E-9483A7FE7E79}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateManagement.Cache_", "..\StateManagement.Cache_\StateManagement.Cache_.csproj", "{9D1205FD-39DF-4D41-A21F-CE003AE6FBA5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -38,6 +43,14 @@ Global
 		{32EDEA61-C22F-418E-AFC7-22EF98DFC686}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{32EDEA61-C22F-418E-AFC7-22EF98DFC686}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{32EDEA61-C22F-418E-AFC7-22EF98DFC686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9AC1A20-063E-4BC8-AE5E-9483A7FE7E79}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9AC1A20-063E-4BC8-AE5E-9483A7FE7E79}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9AC1A20-063E-4BC8-AE5E-9483A7FE7E79}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9AC1A20-063E-4BC8-AE5E-9483A7FE7E79}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D1205FD-39DF-4D41-A21F-CE003AE6FBA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D1205FD-39DF-4D41-A21F-CE003AE6FBA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D1205FD-39DF-4D41-A21F-CE003AE6FBA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D1205FD-39DF-4D41-A21F-CE003AE6FBA5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

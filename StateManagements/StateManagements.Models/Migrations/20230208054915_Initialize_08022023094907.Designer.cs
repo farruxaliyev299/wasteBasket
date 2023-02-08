@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using StateManagements.Models.Data;
 
@@ -11,9 +12,11 @@ using StateManagements.Models.Data;
 namespace StateManagements.Models.Migrations
 {
     [DbContext(typeof(StateManagementsContext))]
-    partial class StateManagementsContextModelSnapshot : ModelSnapshot
+    [Migration("20230208054915_Initialize_08022023094907")]
+    partial class Initialize08022023094907
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -57,11 +60,8 @@ namespace StateManagements.Models.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("Price")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<string>("Src")
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<decimal>("Price")
+                        .HasColumnType("decimal(18,2)");
 
                     b.HasKey("Id");
 
@@ -101,7 +101,7 @@ namespace StateManagements.Models.Migrations
             modelBuilder.Entity("StateManagements.Models.Models.Food", b =>
                 {
                     b.HasOne("StateManagements.Models.Models.Category", "Category")
-                        .WithMany("Foods")
+                        .WithMany()
                         .HasForeignKey("CategoryId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -120,8 +120,6 @@ namespace StateManagements.Models.Migrations
 
             modelBuilder.Entity("StateManagements.Models.Models.Category", b =>
                 {
-                    b.Navigation("Foods");
-
                     b.Navigation("Products");
                 });
 #pragma warning restore 612, 618
